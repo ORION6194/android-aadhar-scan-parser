@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AadharCardScanParser</string>
+    <string name="flash_on">Flash On</string>
+    <string name="flash_off">Flash OFF</string>
+    <string name="auto_focus">Auto Focus</string>
+    <string name="flash">Flash</string>
+    <string name="auto_focus_on">Auto Focus ON</string>
+    <string name="auto_focus_off">Auto Focus OFF</string>
+    <string name="formats">Formats</string>
+    <string name="camera_selector">Camera Selector</string>
+    <string name="select_camera">Select Camera</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="ok_button">OK</string>
+    <string name="choose_formats">Choose Format</string>
+
+</resources>

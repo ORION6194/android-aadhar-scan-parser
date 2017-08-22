@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".SplashScreenActivity">
+    <item android:id="@+id/menu_flash" android:title="@string/flash"
+        android:orderInCategory="1"/>
+    <item android:id="@+id/menu_auto_focus" android:title="@string/auto_focus"
+        android:orderInCategory="2"/>
+    <item android:id="@+id/menu_formats" android:title="@string/formats"
+        android:orderInCategory="3"/>
+    <item android:id="@+id/menu_camera_selector" android:title="@string/camera_selector"
+        android:orderInCategory="4"/>
+</menu>
